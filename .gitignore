@@ -8,4 +8,8 @@
 4-dev/dist/
 5-hmr/node_modules/
 5-hmr/dist/
+6-treeShaking/node_modules/
+6-treeShaking/dist/
+7-prod/node_modules/
+7-prod/dist/
 .DS_Store

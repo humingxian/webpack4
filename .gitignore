@@ -2,4 +2,10 @@
 1-getStart/dist/
 2-assetsManagement/node_modules/
 2-assetsManagement/dist/
+3-outputManagement/node_modules/
+3-outputManagement/dist/
+4-dev/node_modules/
+4-dev/dist/
+5-hmr/node_modules/
+5-hmr/dist/
 .DS_Store
